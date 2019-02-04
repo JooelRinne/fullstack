@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Matti",
+      "number": "54656464",
+      "id": 1
+    },
+    {
+      "name": "Minna",
+      "number": "123456",
+      "id": 2
+    },
+    {
+      "name": "Jonna",
+      "number": "314351",
+      "id": 3
+    },
+    {
+      "name": "Kalle",
+      "number": "6454321",
+      "id": 4
+    }
+  ]
+}
